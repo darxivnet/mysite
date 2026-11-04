@@ -20,7 +20,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST["login"])) {
         header("Location: admin.php");
         exit();
     } else {
-        $loginError = "Неверный логин или пароль";
+        $loginError = "Неверный логин или пароlл";
     }
 }
 
