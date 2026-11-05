@@ -1,1 +1,1 @@
-mysite one one
+mysite
